@@ -1,6 +1,9 @@
 {
   "name": "ng-sonar-test-app",
   "version": "0.0.0",
+  "publishConfig": {
+     “registry”: “http://3.133.158.200:8081/repository/npm-internal/"
+    },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -43,7 +46,5 @@
     "tslint": "~6.1.0",
     "typescript": "~3.8.3"
   }
-  "publishConfig": {
-     “registry”: “http://3.133.158.200:8081/repository/npm-internal/"
-}
+
 }
