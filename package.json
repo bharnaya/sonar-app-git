@@ -43,4 +43,7 @@
     "tslint": "~6.1.0",
     "typescript": "~3.8.3"
   }
+  "publishConfig": {
+     “registry”: “http://3.133.158.200:8081/repository/npm-internal/"
+}
 }
