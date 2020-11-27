@@ -2,7 +2,7 @@
   "name": "ng-sonar-test-app",
   "version": "0.0.0",
   "publishConfig": {
-     "registry": "http://18.221.132.208:8081/repository/npm-internal/"
+     "registry": "http://18.218.150.140:8081/repository/npm-internal/"
     },
   "scripts": {
     "ng": "ng",
